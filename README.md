@@ -1,5 +1,6 @@
 # ramy.github.io
 Natours App
+.........................................................................................................
 Natours is a comprehensive tour booking application designed using Node.js and Express for backend functionality, and Pug, SCSS, and JavaScript for the front end. It uses MongoDB as the database and integrates several third-party APIs for map and payment features. This guide provides step-by-step instructions on setting up, running, and understanding each part of the project.
 
 Table of Contents
